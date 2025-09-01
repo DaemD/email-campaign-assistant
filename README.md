@@ -1,5 +1,7 @@
 Email Campaign Bot
 
+add a config.env file with openai api key
+
 A smart email campaign generator that helps you create fully-designed HTML email campaigns using AI. This bot guides you step-by-step, starting with your product URLs, to generate JSON-based campaign data and a live HTML email template.
 
 Features
