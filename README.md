@@ -76,7 +76,7 @@ Usage
 
 Run the bot in terminal:
 
-python backend.py
+python app.py
 
 
 Provide 1–10 product URLs when prompted.
